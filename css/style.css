@@ -207,7 +207,7 @@ header .follow a:hover {
 .home .content .hi {
   font-size: 2.5rem;
   font-weight: bold;
-  color: var(--main-color);
+  color: rgb(250, 245, 245);
 
   /* text-align: center; */
   /* margin-bottom: 40rem; */
@@ -234,7 +234,7 @@ header .follow a:hover {
 .home .content .text {
   font-size: 2rem;
   font-weight: bold;
-  color: var(--main-color);
+  color:  rgb(240, 239, 239);
   padding: 0.5rem 0;
 }
 
