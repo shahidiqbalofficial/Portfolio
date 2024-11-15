@@ -205,7 +205,7 @@ header .follow a:hover {
 }
 
 .home .content .hi {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: bold;
   color: var(--main-color);
 
@@ -232,7 +232,7 @@ header .follow a:hover {
 }
 
 .home .content .text {
-  font-size: 1.7rem;
+  font-size: 2rem;
   font-weight: bold;
   color: var(--main-color);
   padding: 0.5rem 0;
